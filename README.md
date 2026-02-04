@@ -1,4 +1,6 @@
-Web-Technologies-PBL---1-Year-Semester-II-Assignment-2
+live Link :- https://devakashtiwari.github.io/Simple-multi-section-webpage/
+ 
+ Web-Technologies-PBL---1-Year-Semester-II-Assignment-2
 
 # Develop a simple multi-section webpage and identify which parts belong to the client and which to the server in the client-server architecture. 
 
