@@ -1,4 +1,4 @@
-live Link :- https://devakashtiwari.github.io/Simple-multi-section-webpage/
+live Link :- https://devakashtiwari.github.io/Web-Technologies-PBL-2/
  
  Web-Technologies-PBL---1-Year-Semester-II-Assignment-2
 
